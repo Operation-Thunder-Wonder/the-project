@@ -1,6 +1,6 @@
 # the-project
 State Hacks 2019
-San Diego State University
+at San Diego State University
 November 16, 2019
 
 Team name: Operation Thunder Wonder
